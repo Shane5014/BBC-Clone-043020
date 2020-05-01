@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
-  <meta lang="eng">
   <title>BBC Clone</title>
   <link rel="stylesheet" type="text/css" href="styles.css" />
 </head>
@@ -83,16 +82,17 @@
 <div>
  <div class="content sidebar-1">
    <img src="https://ichef.bbci.co.uk/news/380/cpsprodpb/5AA4/production/_112040232_reu2.jpg" width="240"/>
-   <h3><a href="">Trump says China wants him to lose the re-election.</a><h3>
+   <h3><a href="">Trump says China wants him to lose the re-election.</a></h3>
      <p>The US president says Beijing faces a "lot" of possible consequences from the US over coronavirus.</p>
      <ul>
        <li><img class="clock" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbBcqlu6Dj5vYGs-tiBQE71LS6xGq6agRV-8CRbTxsAs48zNIz&usqp=CAU"/></li>
        <li class="location">US & Canada</li>
      </ul>
+  </div>
  </div>
      <div class="content sidebar-2">
    <img src="https://ichef.bbci.co.uk/news/380/cpsprodpb/6133/production/_112038842_mariya_976.jpg" width="240"/>
-       <h3><a href="">Why so many US nurses are out of work.</a><h3>
+       <h3><a href="">Why so many US nurses are out of work.</a></h3>
      <p>At a time when many healthcare workers are risking their lives, some face pay cuts and job loss.</p>
      <ul>
        <li><img class="clock" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbBcqlu6Dj5vYGs-tiBQE71LS6xGq6agRV-8CRbTxsAs48zNIz&usqp=CAU"/></li>
